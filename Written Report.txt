@@ -1,0 +1,38 @@
+Direct Summary:
+    The direct summary data frame shows the total amount of school, student , scores, etc of the data that was provided. 
+
+School Summary:
+    The school summary categorizes the 15 different schools and shows the overall performance of the school. 
+
+Highest/Lowest Performing Schools(by overall passing):
+    In these sections, the data will show the highest performing schools and the lowest performing schools. 
+    The highest overall performaning school is Cabrera High School where as the lowest performing school is Rodriguez High School.
+
+Math scores by Grade:
+    In this section, math scores are seperated by grade and by each different school. 
+
+Reading scores by Grade:
+    In this section, reading scores are seperated by grade and by each different school. 
+
+Scores by School Spending:
+    In these sections, the school spending per student is placed in categories showing how much money the school spends per student in relation to the score results.
+    As this set of data shows, schools that spend less per student have the highest overall passing percentage.
+
+Scores by School Size:
+    In these sections, the size of the school is compared to the scores of the students. 
+    From this set of data, medium(1000-2000) and small schools(<1000) have the higher percentage overall passing.
+
+Scores by school Type:
+    In this section, the two school type (charter and district) shows if there is a relationship to student test score/% passing.
+    From the data, students in the charter school type have a higher % overall passing. 
+
+
+Conclusion from the data:
+    1)From the data of the school sizes, schools with less than 2000 student have a higher overall passing percentage. 
+    This can mean that teachers have smaller classrooms which then they can focus on helping students that are performing poorly.
+    Less students in classrooms means that there are less students distracting each other, resulting in better performance.
+
+    2)Schools that spend less money per student have a higher overall passing percentage.
+    This can mean that these school might be spending more on their teachers, which can be reflected from the overall passing percentage
+
+
